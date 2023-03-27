@@ -1,0 +1,8 @@
+screenshots/
+*.apk
+*.png
+*.webp
+*.log
+.idea
+__pycache__
+model
